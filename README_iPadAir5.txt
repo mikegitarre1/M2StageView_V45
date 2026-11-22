@@ -1,1 +1,1 @@
-M²StageView V47 optimized for iPad Air 5th generation 10.9-inch in landscape. The Air 5 uses a 2360x1640 physical display and roughly 1180x820 logical CSS viewport. Upload all files to the GitHub Pages repository root.
+V48 Air5: Back/Next footer removed; navigation uses Previous/Next song cards. Larger logo, touch multi-select, Clear Songpool, embedded empty Original Setlist default.
