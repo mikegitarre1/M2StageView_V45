@@ -1,0 +1,1 @@
+V63 universal landscape PWA: optimized for iPad Air 5 (approx 1180x820 CSS) and iPad 9th gen (1024x768 CSS). All controls fit without scrolling.
