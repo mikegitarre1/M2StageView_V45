@@ -1,1 +1,1 @@
-V63 universal landscape PWA: optimized for iPad Air 5 (approx 1180x820 CSS) and iPad 9th gen (1024x768 CSS). All controls fit without scrolling.
+V66 keeps desktop V65 geometry unchanged. On iPad it scales the entire 3:2 Floorboard uniformly from available viewport height, including Safari browser chrome. Touch zones and pedal remain attached to the same canvas.
