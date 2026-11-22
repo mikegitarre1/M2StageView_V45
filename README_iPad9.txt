@@ -1,0 +1,1 @@
+Optimized for iPad 9th generation landscape. Upload all files to the GitHub Pages repository root.
