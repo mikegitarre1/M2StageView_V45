@@ -1,1 +1,1 @@
-V68 is based directly on V65. Only Apple touch-device landscape CSS was added. Desktop V65 layout and coordinates are unchanged.
+M²StageView V71 PWA. Upload ALL files to the GitHub Pages repository root. index.html must stay in root. Reload Safari once after deployment, then launch/update the Home Screen web app.
