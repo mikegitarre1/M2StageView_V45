@@ -1,1 +1,1 @@
-V66 keeps desktop V65 geometry unchanged. On iPad it scales the entire 3:2 Floorboard uniformly from available viewport height, including Safari browser chrome. Touch zones and pedal remain attached to the same canvas.
+V68 is based directly on V65. Only Apple touch-device landscape CSS was added. Desktop V65 layout and coordinates are unchanged.
