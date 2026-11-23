@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "M2 StageView – Setlist & Floorboard",
-  "short_name": "M2 StageView",
-  "description": "Setlist-Verwaltung und StageView mit Floorboard-Steuerung.",
+  "name": "M² StageView",
+  "short_name": "M² StageView",
+  "description": "M² StageView – Setlist-Verwaltung und interaktives Floorboard.",
   "lang": "de",
   "start_url": "./",
   "scope": "./",

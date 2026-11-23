@@ -1,19 +1,22 @@
-# M2 StageView – PWA
+M² StageView V77 – iPad One-Screen Edition
 
-Enthält die responsive V76-App als installierbare Progressive Web App.
+ENTHALTEN
+- index.html: neue V77-Oberfläche auf Basis deiner V76-Datei
+- Originales M²StageView-Logo als PWA-Appgrafik
+- manifest.webmanifest, Service Worker und iOS-App-Icons
+- Offline-Cache der App-Dateien
+- Die grünen Footer-Buttons „Back“ und „Next“ sind ausgeblendet.
+- Das Layout ist für iPad 9. Generation und iPad Air 5 im Querformat optimiert.
+- Die App-Oberfläche ist auf eine Ansicht ausgelegt; die Board-Grafik bleibt proportional.
 
-## Online bereitstellen
-1. Den gesamten Ordner `M2StageView_PWA` unverändert auf einen Webserver hochladen.
-2. Die App über HTTPS öffnen (z. B. `https://deine-domain.at/`).
-3. Die `index.html` muss unter derselben Adresse wie `manifest.webmanifest` und `sw.js` liegen.
+BEREITSTELLUNG
+1. ZIP entpacken.
+2. Alle Dateien aus dem Ordner M2StageView_V77_PWA unverändert in denselben Ordner auf einem HTTPS-Webserver hochladen.
+3. index.html über Safari auf dem iPad öffnen.
+4. Teilen > Zum Home-Bildschirm > Hinzufügen.
 
-## Auf dem iPad installieren
-1. In Safari die HTTPS-Adresse der App öffnen.
-2. Teilen antippen.
-3. „Zum Home-Bildschirm“ wählen und hinzufügen.
-4. Die App anschließend über das neue Home-Bildschirm-Symbol starten.
-
-## Offline
-Beim ersten Online-Aufruf wird die App-Oberfläche lokal zwischengespeichert. Danach kann sie auch ohne Internetverbindung gestartet werden. Für die erstmalige Installation und den ersten Cache-Aufbau ist eine Internetverbindung erforderlich.
-
-Hinweis: Service Worker funktionieren nur über HTTPS oder lokal auf `localhost`. Die PWA speichert App-Dateien offline; Songdaten bleiben weiterhin nach der vorhandenen Speicherlogik der HTML-App gespeichert.
+HINWEISE
+- Für PWA-Installation und Service Worker ist HTTPS erforderlich (oder localhost zum Testen).
+- Bitte die App auf beiden iPads im Querformat testen. Die verfügbare Höhe kann je nach Safari-Statusleiste und Zoom leicht variieren.
+- Der Service Worker cached die App-Hülle und Icons. Externe Dienste/Links benötigen weiterhin eine Verbindung.
+- Die Songdaten werden weiterhin über die vorhandene Speicherlogik der ursprünglichen HTML-App verwaltet.
