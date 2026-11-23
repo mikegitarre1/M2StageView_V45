@@ -1,1 +1,1 @@
-M²StageView V71 PWA. Upload ALL files to the GitHub Pages repository root. index.html must stay in root. Reload Safari once after deployment, then launch/update the Home Screen web app.
+V72: iPad only. Complete hardware board visible using 1.80:1 crop of the 1536x1024 source. Touch centers recalibrated to physical switches. Desktop remains unchanged.
